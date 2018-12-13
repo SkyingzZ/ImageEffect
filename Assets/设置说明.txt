@@ -1,0 +1,3 @@
+场景中的ImageEffectHolder上要挂载Effect脚本
+testGameObject上要挂载Scripts/Test文件夹中任意一个测试脚本
+button的点击事件要设置成testGameObject上的测试脚本的PlayEffect接口
